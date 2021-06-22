@@ -9,7 +9,7 @@ I'm currently pursuing B.Tech in Information Technology from Maharaja Agrasen In
 <a href="https://leetcode.com/shivanshugarg25899/" target="blank"><img align="center" src="./icons/lc.png" alt="Shivanshu" height="40" width="45" style="margin-right:15px" /></a>
 <a href="https://www.codechef.com/users/garg12800" target="blank"><img align="center" src="./icons/cc.png" alt="Shivanshu" height="40" width="40" style="margin-right:15px"/></a>
 <a href="https://codeforces.com/profile/indianCodingBoy" target="blank"><img align="center" src="./icons/cf.png" alt="Shivanshu" height="20" width="150"style="margin-right:15px" /></a>
-<a href="https://www.hackerrank.com/shivanshugarg121" target="blank"><img align="center" src="./icons/Hackerrank.png" alt="Shivanshu" height="40" width="40" style="margin-right:15px"/></a>
+<a href="https://www.hackerrank.com/shivanshugarg121" target="blank"><img align="center" src="./icons/HackerRank.png" alt="Shivanshu" height="40" width="40" style="margin-right:15px"/></a>
 </p>
 </br>
 </br>
