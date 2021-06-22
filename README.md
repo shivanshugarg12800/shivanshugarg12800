@@ -3,7 +3,12 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm currently pursuing B.Tech in Information Technology from Maharaja Agrasen Institute of Technology, Delhi. Being an IT student, I have tried hands on different technologies and here is a brief summary of what I've done so far and planning to do 
 - Competitive Programmer in C++ with not so good achievements yet, you can go have a look at my coding profiles featured down here 👇
-  
+<p align="left">
+<a href="https://leetcode.com/shivanshugarg25899/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/garg12800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/indianCodingBoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shivanshugarg121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+</p>
 
 
 ## &#x1f4c8; GitHub Stats
