@@ -40,6 +40,7 @@ I'm currently pursuing B.Tech in Information Technology from Maharaja Agrasen In
 <a href="https://github.com/shivanshugarg12800/shivanshugarg12800">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshugarg12800&show_icons=true&count_private=true&bg_color=010d28&title_color=F2C300&icon_color=F2bbc8a&text_color=ffffff&include_all_commits=true" alt="Shivanshu's GitHub stats"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=shivanshugarg12800" alt="shivanshugarg12800" />
 
 ### Connect with me 😄
 
