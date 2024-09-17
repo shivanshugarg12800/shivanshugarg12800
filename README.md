@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm currently pursuing B.Tech in Information Technology from Maharaja Agrasen Institute of Technology, Delhi. Being an IT student, I have tried hands on different technologies and here is a brief summary of what I've done so far and planning to do
+"🚀 As a Software Engineer at **Livspace**, I work on various technologies like **JavaScript**, **React**, **Angular**, **Redux**, and Git/GitHub. With more than **2** years of experience, I specialise in creating cool-looking web applications and handling the technical side of web development."
 
 - Competitive Programmer in <b>C++</b> with not so good achievements yet 😅, you can go have a look at my coding profiles featured down here 👇
 <p align="left">
